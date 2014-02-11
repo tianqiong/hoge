@@ -1,0 +1,57 @@
+.main{ padding-top:40px; width:1000px; margin:0 auto; overflow:hidden;}
+.t1{ background:#fff; width:944px;  box-shadow:0 0 5px rgba(0,0,0,0.1);-webkit-box-shadow:0 0 5px rgba(0,0,0,0.1);-moz-box-shadow:0 0 5px rgba(0,0,0,0.1); padding:80px 16px 60px 40px; overflow:hidden;}
+.t1-left{ float:left; width:440px; line-height:26px;}
+.t1-right{ float:right; overflow:hidden;}
+.t1-title a{ font-size:26px; color:#333;}
+.t1-desc{ font-size:14px; color:#8b8b8b; padding:5px 0 0;}
+.t1-right li{ float:left; margin-right:30px; display:inline;width:115px; height:114px;}
+.b1{ background:url(../images/banner1.png) no-repeat; }
+.b2{ background:url(../images/banner2.png) no-repeat; }
+.b3{ background:url(../images/banner3.png) no-repeat; }
+.t2{padding:30px 0 36px; height:204px;}
+.t2_ul{width:110%;}
+.t2 li { float:left; height:204px;}
+.t2 li a{ width:314px; float:left; background:#fff; height:204px; margin-right:30px; display:inline;box-shadow:0 0 5px rgba(0,0,0,0.1); position:relative; border-radius:7px; -moz-border-radius:7px; -web-border-radius:7px;}
+.t2-style,.t2-template,.t2-layout{position:absolute; left:50%; top:50%;  overflow:hidden; height:68px; margin-top:-34px;}
+.t2-style{ width:128px; margin-left:-64px;}
+.t2-style-left,.t2-template-left,.t2-layout-left{ float:left; position:absolute; left:0; top:50%;}
+.t2-style-left{background:url(../images/img1.jpg) no-repeat; width:22px; height:31px; margin-top:-16px;}
+.t2-style-right,.t2-template-right,.t2-layout-right{ float:right;  padding-right:10px; }
+.t2-style-right{background:url(../images/line1.jpg) no-repeat left 9px; width:74px;text-align:right;}
+.t2-style-text,.t2-template-text,.t2-layout-text{ font-size:28px; }
+.t2-style-text{color:#3391da;}
+.t2-style-word,.t2-template-word,.t2-layout-word{ font-size:24px; font-family:"Arial";text-transform:capitalize; padding:5px 0 0;}
+.t2-style-word{color:#3391da;}
+.l1 a:hover{ background:#3391db; border-bottom:4px solid #247cc1; height:200px;}
+.l1 a:hover .t2-style-left{background:url(../images/img1_hover.jpg) no-repeat;}
+.l1 a:hover .t2-style-text,.l2 a:hover .t2-template-text,.l3 a:hover .t2-layout-text{ color:#fff;}
+.l1 a:hover .t2-style-word,.l2 a:hover .t2-template-word,.l3 a:hover .t2-layout-word{ color:#fff;}
+.t2-template{ width:182px; margin-left:-91px;}
+.t2-template-left{ background:url(../images/img2.jpg) no-repeat; width:28px; height:39px; margin-top:-19px;}
+.t2-template-right{ float:right; width:103px; background:url(../images/line2.jpg) no-repeat left 9px; padding-left:20px;}
+.t2-template-text{ color:#57b531;}
+.t2-template-word{color:#57b531;}
+.l2 a:hover{ background:#57b531; border-bottom:4px solid #41971f;height:200px;}
+.l2 a:hover .t2-template-left{background:url(../images/img2_hover.jpg) no-repeat;}
+.t2-layout{ width:154px; margin-left:-77px;}
+.t2-layout-left{ background:url(../images/img3.jpg) no-repeat; width:29px; height:29px; margin-top:-15px;}
+.t2-layout-right{ background:url(../images/line3.jpg) no-repeat left 9px; width:73px; padding-left:20px;}
+.t2-layout-text{ color:#ed9b37;}
+.t2-layout-word{color:#ed9b37;}
+.l3 a:hover{background:#ed9b37; border-bottom:4px solid #d3872a;height:200px;}
+.l3 a:hover .t2-layout-left{background:url(../images/img3_hover.jpg) no-repeat;}
+
+.t3{ width:954px; height:94px; background:#fff; box-shadow:0 0 5px rgba(0,0,0,0.1);-webkit-box-shadow:0 0 5px rgba(0,0,0,0.1);-moz-box-shadow:0 0 5px rgba(0,0,0,0.1);border-radius:7px; -moz-border-radius:7px; -web-border-radius:7px; padding-left:46px;}
+.t3 ul{ height:93px; line-height:92px; overflow:hidden;}
+.t3 ul li{ float:left; margin-right:100px; display:inline;}
+.t3 ul li a{ font-size:20px; color:#b5b5b5; font-family:"Simsun";}
+.t3 ul li a span{ font-size:17px; font-family:"Arial"; padding-left:10px; font-weight:700;}
+.t3 ul li a:hover{ color:#484848;}
+.t3 ul li a:hover span{ color:#484848;}
+.t3-data{ background:url(../images/ico1.png) no-repeat left 36px; padding-left:40px; display:inline-block;}
+.t3-create{ background:url(../images/ico2.png) no-repeat left 32px;padding-left:40px; display:inline-block;}
+.t3-help{background:url(../images/ico3.png) no-repeat left 36px;padding-left:40px; display:inline-block;}
+.t3-help:hover{ background:url(../images/ico3_hover.png) no-repeat left 36px;}
+.t3-create:hover{background:url(../images/ico2_hover.png) no-repeat left 32px;}
+.t3-data:hover{background:url(../images/ico1_hover.png) no-repeat left 36px;}
+
